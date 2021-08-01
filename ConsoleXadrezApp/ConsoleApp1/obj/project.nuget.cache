@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fjKeU/nbG8T4bElFU8LE1Zz/RA4vsncptus6ViVFWM8IfFTz5KGCo3w/mJsXWGXoaDw8zO5CWyvGD9I+D+0JZQ==",
+  "dgSpecHash": "Sz1qN+CoMUkPGtJAMVgQSteRv4tR0d+6tU8xj9M8QzQEeLIhBBRGD7VOD0J70Zkqyxoaxzbz+Rz2j6CyVyed8Q==",
   "success": true,
-  "projectFilePath": "D:\\Arquivos\\XadrezConsole\\ConsoleXadrezApp\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "D:\\Arquivos\\XadrezConsole\\ConsoleXadrezApp\\ConsoleApp1\\XadrezConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

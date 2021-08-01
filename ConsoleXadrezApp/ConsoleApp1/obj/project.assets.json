@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos\\XadrezConsole\\ConsoleXadrezApp\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\Arquivos\\XadrezConsole\\ConsoleXadrezApp\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\Arquivos\\XadrezConsole\\ConsoleXadrezApp\\ConsoleApp1\\XadrezConsole.csproj",
+      "projectName": "XadrezConsole",
+      "projectPath": "D:\\Arquivos\\XadrezConsole\\ConsoleXadrezApp\\ConsoleApp1\\XadrezConsole.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
       "outputPath": "D:\\Arquivos\\XadrezConsole\\ConsoleXadrezApp\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
